@@ -1,0 +1,10 @@
+{
+  "cssTheme": "PLN",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "litnote-colors"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "100_LIteratureNotes/110_Paper/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "paper",
+      "outputPathTemplate": "100_LIteratureNotes/110_Paper/@{{citekey}}.md",
+      "imageOutputPathTemplate": "900_Settings/920_Attachments/@{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "900_Settings/930_Templates/paper.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes"
+}

@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "83a0013aefbac792",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1d60fe77173bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e518b8d9628cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900_Settings/930_Templates/note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfd3ab5e6390eca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62458e81e800a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241f98f95c95b576",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f619856dfbfbcbd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c92ca8ea4f052329",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cd320beadd93dc26",
+    "type": "split",
+    "children": [
+      {
+        "id": "c45bafe3341703ed",
+        "type": "tabs",
+        "dimension": 26.625,
+        "children": [
+          {
+            "id": "9f74022afb154836",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4cb0ca0b563e123d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hippocampus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hippocampus"
+            }
+          },
+          {
+            "id": "604be4be35ef8507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hippocampus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hippocampus"
+            }
+          },
+          {
+            "id": "60a10cb61322a519",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7210024574303935",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b9f1cf77d54b8867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "900_Settings/930_Templates/paper.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of paper"
+            }
+          },
+          {
+            "id": "aa4543c2855a1697",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "edeac3b492057099",
+        "type": "tabs",
+        "dimension": 73.375,
+        "children": [
+          {
+            "id": "d2ba5edfefd9b13d",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aa4543c2855a1697",
+  "lastOpenFiles": [
+    "000_Inbox/Untitled.md",
+    "900_Settings/930_Templates/note.md",
+    "900_Settings/940_MetaClasses/note.md",
+    "Untitled.md",
+    "900_Settings/930_Templates/research.md",
+    "900_Settings/930_Templates/paper.md",
+    "Tasks Plugin - Review and check your Statuses 2026-01-20 15-08-19.md",
+    "Tasks Plugin - Review and check your Statuses 2026-01-20 15-07-39.md",
+    "900_Settings/940_MetaClasses/research.md",
+    "900_Settings/940_MetaClasses/web.md",
+    "900_Settings/910_PeriodicNotes/2026-01-20.md",
+    "900_Settings/930_Templates/book.md",
+    "900_Settings/940_MetaClasses/book.md",
+    "100_LIteratureNotes/130_Web/더하기만 하는 ResNet은 이제 그만✋➕ Deep Delta Learning.md",
+    "100_LIteratureNotes/130_Web/Untitled.md",
+    "100_LIteratureNotes/110_Paper/@spotoGlovEgoHOIBridgingSynthetictoReal2026.md",
+    "200_ResearchNote/210_Ongoing/Untitled.md",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-5-x75-y580.png",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-2-x72-y612.png",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026",
+    "900_Settings/940_MetaClasses/paper.md",
+    "100_LIteratureNotes/110_Paper/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection.md",
+    "100_LIteratureNotes/110_Paper/spotoGlovEgoHOIBridgingSynthetictoReal2026.md",
+    "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection/image-5-x75-y580.png",
+    "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection/image-2-x72-y612.png",
+    "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection",
+    "Hippocampus.md",
+    "GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection.md",
+    "Template/ref.bib",
+    "Template",
+    "400_ThoughtNote/Untitled.md",
+    "400_ThoughtNote/410_Ideas",
+    "100_LIteratureNotes/120_Book/명상록.md",
+    "400_ThoughtNote/420_Personal",
+    "400_ThoughtNote/410_Queries",
+    "300_PermanentNote/340_MOC",
+    "300_PermanentNote/330_Snippets",
+    "300_PermanentNote/320_Taxonomy",
+    "100_LIteratureNotes/Untitled.md",
+    "Untitled 1.md",
+    "200_ResearchNote/Untitled.canvas"
+  ]
+}

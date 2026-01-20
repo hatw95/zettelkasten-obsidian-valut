@@ -1,0 +1,65 @@
+{
+  "openViewOnStartup": true,
+  "filterEmpty": true,
+  "excludePaths": [],
+  "includePaths": [
+    "900_Settings/910_PeriodicNotes",
+    "000_Inbox"
+  ],
+  "useIncludeTags": false,
+  "taskIncludeTags": [],
+  "fileIncludeTags": [],
+  "useExcludeTags": false,
+  "taskExcludeTags": [],
+  "fileExcludeTags": [],
+  "styles": [
+    "style1"
+  ],
+  "dailyNoteFolder": "900_Settings/910_PeriodicNotes",
+  "dailyNoteFormat": "YY-MM-DD",
+  "sectionForNewTasks": "## Tasks",
+  "hideTags": [],
+  "forward": true,
+  "sort": "(t1, t2) => t1.order <= t2.order ? -1 : 1",
+  "taskStatusOrder": [
+    "overdue",
+    "due",
+    "scheduled",
+    "start",
+    "process",
+    "unplanned",
+    "done",
+    "cancelled"
+  ],
+  "dateFormat": "dddd, MMM, D",
+  "inbox": "Inbox.md",
+  "taskFiles": [],
+  "tagColorPalette": {
+    "#writing": "#f09393",
+    "#survey": "#ffa8ef",
+    "#fig": "#ba80f4",
+    "#table": "#759fff",
+    "#develop": "#a1f7c6",
+    "#video": "#eaff9e",
+    "#format": "#548853"
+  },
+  "useCounters": true,
+  "counterBehavior": "Filter",
+  "useQuickEntry": false,
+  "entryPosition": "bottom",
+  "useYearHeader": false,
+  "useRelative": true,
+  "useRecurrence": true,
+  "usePriority": true,
+  "useTags": true,
+  "useFileBadge": true,
+  "useSection": false,
+  "hideStatusTasks": [
+    "x",
+    "-"
+  ],
+  "defaultTodayFocus": false,
+  "defaultFilters": "todoFilter",
+  "useBuiltinStyle": true,
+  "convert24HourTimePrefix": false
+}

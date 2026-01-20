@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "900_Settings/930_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "900_Settings/930_Templates/research.md",
+    "900_Settings/930_Templates/book.md",
+    "900_Settings/930_Templates/note.md"
+  ],
+  "startup_templates": [
+    "900_Settings/930_Templates/research.md",
+    "900_Settings/930_Templates/book.md",
+    "900_Settings/930_Templates/note.md"
+  ],
+  "intellisense_render": 1
+}
