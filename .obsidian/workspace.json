@@ -11,9 +11,26 @@
             "id": "48e518b8d9628cca",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "900_Settings/950_Boards/Canvas Example.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Canvas Example"
+            }
+          },
+          {
+            "id": "c1fa9939d1f8291c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "900_Settings/930_Templates/note.md",
+                "file": "300_PermanentNote/320_Taxonomy/Note Example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "Note Example"
             }
           }
         ]
@@ -97,7 +114,7 @@
       {
         "id": "c45bafe3341703ed",
         "type": "tabs",
-        "dimension": 26.625,
+        "dimension": 21.856287425149702,
         "children": [
           {
             "id": "9f74022afb154836",
@@ -187,24 +204,13 @@
               "icon": "lucide-list",
               "title": "Outline of paper"
             }
-          },
-          {
-            "id": "aa4543c2855a1697",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "edeac3b492057099",
         "type": "tabs",
-        "dimension": 73.375,
+        "dimension": 78.1437125748503,
         "children": [
           {
             "id": "d2ba5edfefd9b13d",
@@ -234,9 +240,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aa4543c2855a1697",
+  "active": "241f98f95c95b576",
   "lastOpenFiles": [
-    "000_Inbox/Untitled.md",
+    "900_Settings/910_PeriodicNotes/2026-01-21.md",
+    "900_Settings/950_Boards/Canvas Example.canvas",
+    "400_ThoughtNote/410_Ideas/Note Example.md",
+    "300_PermanentNote/340_MOC/Note Example.md",
+    "300_PermanentNote/330_Snippets/Note Example.md",
+    "300_PermanentNote/320_Taxonomy/Note Example.md",
+    "300_PermanentNote/310_Knowledge/Note Example.md",
+    "000_Inbox/Note Example.md",
+    "200_ResearchNote/240_Potential/Research Example.md",
+    "200_ResearchNote/230_Deprecated/Research Example.md",
+    "200_ResearchNote/220_Done/Research Example.md",
+    "200_ResearchNote/210_Ongoing/Research Example.md",
+    "100_LIteratureNotes/130_Web/그래프 (조합론).md",
+    "100_LIteratureNotes/120_Book/명상록.md",
+    "100_LIteratureNotes/110_Paper/@spotoGlovEgoHOIBridgingSynthetictoReal2026.md",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-5-x75-y580.png",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-2-x72-y612.png",
+    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026",
+    "100_LIteratureNotes/110_Paper/Untitled.md",
     "900_Settings/930_Templates/note.md",
     "900_Settings/940_MetaClasses/note.md",
     "Untitled.md",
@@ -247,35 +271,17 @@
     "900_Settings/940_MetaClasses/research.md",
     "900_Settings/940_MetaClasses/web.md",
     "900_Settings/910_PeriodicNotes/2026-01-20.md",
-    "900_Settings/930_Templates/book.md",
-    "900_Settings/940_MetaClasses/book.md",
-    "100_LIteratureNotes/130_Web/더하기만 하는 ResNet은 이제 그만✋➕ Deep Delta Learning.md",
-    "100_LIteratureNotes/130_Web/Untitled.md",
-    "100_LIteratureNotes/110_Paper/@spotoGlovEgoHOIBridgingSynthetictoReal2026.md",
-    "200_ResearchNote/210_Ongoing/Untitled.md",
-    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-5-x75-y580.png",
-    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026/image-2-x72-y612.png",
-    "900_Settings/920_Attachments/@spotoGlovEgoHOIBridgingSynthetictoReal2026",
-    "900_Settings/940_MetaClasses/paper.md",
-    "100_LIteratureNotes/110_Paper/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection.md",
-    "100_LIteratureNotes/110_Paper/spotoGlovEgoHOIBridgingSynthetictoReal2026.md",
     "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection/image-5-x75-y580.png",
     "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection/image-2-x72-y612.png",
     "900_Settings/920_Attachments/GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection",
-    "Hippocampus.md",
-    "GlovEgo-HOI - Bridging the Synthetic-to-Real Gap for Industrial Egocentric Human-Object Interaction Detection.md",
     "Template/ref.bib",
     "Template",
-    "400_ThoughtNote/Untitled.md",
     "400_ThoughtNote/410_Ideas",
-    "100_LIteratureNotes/120_Book/명상록.md",
     "400_ThoughtNote/420_Personal",
     "400_ThoughtNote/410_Queries",
     "300_PermanentNote/340_MOC",
     "300_PermanentNote/330_Snippets",
     "300_PermanentNote/320_Taxonomy",
-    "100_LIteratureNotes/Untitled.md",
-    "Untitled 1.md",
     "200_ResearchNote/Untitled.canvas"
   ]
 }
